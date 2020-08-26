@@ -9,38 +9,40 @@ A lot of software development revloves around ecommerce so having a site that de
 
 ## User stories
   ### Seller
-    -- The seller should be able to post outfits that are for sale
-    -- The seller should be able to view a full list of outfits they have availble
-    -- The seller should be able to delete outfits after they are sold
-    -- The seller should be see their rating
-    -- The seller should be able to see their followers
+    - The seller should be able to post outfits that are for sale
+    - The seller should be able to view a full list of outfits they have availble
+    - The seller should be able to delete outfits after they are sold
+    - The seller should be see their rating
+    - The seller should be able to see their followers
   
   ### Buyer
-    -- The buyer should be able to follow sellers they like
-    -- The buyer should be able to see a full list of outfits from all sellers
-    -- The buyer should be able to see a full list of outfits from all sellers they follow
-    -- The buyer should be able to see a full list of outfits from one seller they follow
-    -- The buyer should be able to send a request for a seller to put together an outfit for them.
+    - The buyer should be able to follow sellers they like
+    - The buyer should be able to see a full list of outfits from all sellers
+    - The buyer should be able to see a full list of outfits from all sellers they follow
+    - The buyer should be able to see a full list of outfits from one seller they follow
+    - The buyer should be able to send a request for a seller to put together an outfit for them.
 
 ## User stories stretch
   ### Seller
-    -- The Seller should have outfits automatically deleted if a user buys one
+    - The Seller should have outfits automatically deleted if a user buys one
   ### Buyer
-    -- The buyer should be able to add friends
-    -- The buyer should be able to see friends
-    -- The buyer should be able to recommend an outfit to a friend
-    -- The buyer should be able to see their recommendations.
-    -- The buyer should be able to see shipping costs
-    --The buyer should be able to buy the outfits
+    - The buyer should be able to add friends
+    - The buyer should be able to see friends
+    - The buyer should be able to recommend an outfit to a friend
+    - The buyer should be able to see their recommendations.
+    - The buyer should be able to see shipping costs
+    - The buyer should be able to buy the outfits
+    
 
-## Requirments met
-  -- Buyers, Sellers, Outfits, and Friends make up the data base
-  -- Accessing that info will meet the needs of the express app
-  -- React will display all elements
-  -- Bonus requirments: We will have user Auth for the buyers and sellers
-  -- Bonus Bonus requirments: There are two Apis for the store element.
+## Extra details
+  ### Requirments met
+    - Buyers, Sellers, Outfits, and Friends make up the data base
+    - Accessing that info will meet the needs of the express app
+    - React will display all elements
+    - Bonus requirments: We will have user Auth for the buyers and sellers
+    - Bonus Bonus requirments: There are two Apis for the store element.
 
-## Bonus info
-  -- https://developer.squareup.com/docs/checkout-api-overview This link has an api for handling payments that we could use
-  -- https://www.ups.com/us/en/services/technology-integration/online-tools-shipping.page This link has an api for calculating shipping costs for usps
+  ### Bonus info
+    - https://developer.squareup.com/docs/checkout-api-overview This link has an api for handling payments that we could use
+    - https://www.ups.com/us/en/services/technology-integration/online-tools-shipping.page This link has an api for calculating shipping costs for usps
  
